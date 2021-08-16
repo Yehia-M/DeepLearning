@@ -1,6 +1,6 @@
 # DeepLearning
 
-Projects for Deep Learning Specialiaztion
+Projects for Deep Learning specialiaztion on Coursera
 
 (1) Implementing Logisitc Regression and Gradient Descent to understand how it's work and building a simple cat classifier with it.
 
