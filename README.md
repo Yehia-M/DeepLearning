@@ -15,3 +15,5 @@ Replacing version 1 functions with the newer version equivalents. Calls for sess
     
     a- Function for the main building blocks of CNN (Forward propagation, Max Pool, Fully Connected and back propagation)
     b- Using TensorFlow to build CNN to improve the hand sign classifier
+    
+(6) ResNet - Building ResNet blocks using Keras and use it to build a better hand signs detector
