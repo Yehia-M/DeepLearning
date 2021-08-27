@@ -32,6 +32,7 @@ Replacing version 1 functions with the newer version equivalents. Calls for sess
 
 * Character-Level Language Modeling - for two tasks
     1- Generate a dinosaur name -> using RNN
+    
     2-Generate a Shakespeare-like writing -> using LSTM
 TensorFlow V2 is used in this notebook
 
