@@ -27,12 +27,12 @@ Replacing version 1 functions with the newer version equivalents. Calls for sess
     * Predict by using a given threshold for the distance between the vectors
  TensorFlowV1 is used
 
-RNN Step by Step - Building all components and units of RNN without frameworks
-* Forward and Back probagation for simple RNN and LSTM
+* RNN Step by Step - Building all components and units of RNN without frameworks
+    * Forward and Back probagation for simple RNN and LSTM
 
-Character-Level Language Modeling - for two tasks
+* Character-Level Language Modeling - for two tasks
     1- Generate a dinosaur name -> using RNN
     2-Generate a Shakespeare-like writing -> using LSTM
 TensorFlow V2 is used in this notebook
 
-Jazz Improvisation with LSTM - Generate Jazz music using LSTM and Keras
+* Jazz Improvisation with LSTM - Generate Jazz music using LSTM and Keras
