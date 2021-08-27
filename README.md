@@ -30,6 +30,7 @@ Projects for Deep Learning specialiaztion on Coursera
     * Forward and Back probagation for simple RNN and LSTM
 
 * Character-Level Language Modeling - for two tasks
+
     1- Generate a dinosaur name -> using RNN
     
     2-Generate a Shakespeare-like writing -> using LSTM
