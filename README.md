@@ -34,7 +34,7 @@ TensorFlow V2 is used in this notebook
 * Optimization Algorithm - Comparision between different optimization algorithms; gradient descent, momentum and ADAM.
 
 * RNN Step by Step - Building all components and units of RNN without frameworks
-    * Forward and Back probagation for simple RNN and LSTM
+    * Forward and Back propagation for simple RNN and LSTM
 
 * ResNet - Building ResNet blocks using Keras and use it to build a better hand signs detector
 
