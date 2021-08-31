@@ -34,4 +34,6 @@ TensorFlow V2 is used in this notebook
 
 * ResNet - Building ResNet blocks using Keras and use it to build a better hand signs detector
 
+* Word Vectors - Using GloVe dataset and cosine similarity find the relation between words
+
 * TensorFlow Tutorial - Building a neural network to detect hand signs (0-1-2-3-4-5) from image. In the original project, I used TF version 1, but lately, in order to migrate to tf version 2, I updated the code. Replacing version 1 functions with the newer version equivalents. Calls for sessions are removed and placeholders are no longer available.
