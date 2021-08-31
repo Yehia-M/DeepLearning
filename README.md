@@ -17,6 +17,10 @@ TensorFlow V2 is used in this notebook
 
 * Deep Neural Network - Building L-Layer Deep Neural Network and Improve the cat classifier
 
+* Emojify - Predict the emoji for a given sentence
+    * V1 - Using GloVe encoding by averaging the encoded vectors and softmax to find the output
+    * V2 - Adding LSTM to consider the order of words not just the encoding vector
+
 * Face Recognition - Recognize the person in image by doing the next steps:
     * Encode the image using pretrained inception network
     * Compare the encoded vector with stored vectors
