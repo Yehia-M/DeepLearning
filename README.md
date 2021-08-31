@@ -13,6 +13,8 @@ TensorFlow V2 is used in this notebook
     * Function for the main building blocks of CNN (Forward propagation, Max Pool, Fully Connected and back propagation)
     * Using TensorFlow to build CNN to improve the hand sign classifier
 
+* Date Translation - Using Attention model and LSTM the model takes any date format and outputs "YYYY-MM-DD" format
+
 * Deep Neural Network - Building L-Layer Deep Neural Network and Improve the cat classifier
 
 * Face Recognition - Recognize the person in image by doing the next steps:
